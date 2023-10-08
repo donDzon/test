@@ -1,3 +1,4 @@
+package src;
 public class Kvadrat extends Oblik {
     private double a;
 

@@ -1,3 +1,4 @@
+package src;
 public abstract class Oblik {
 
     public abstract double povrsina();

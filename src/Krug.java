@@ -6,7 +6,7 @@
 
 // Ste je nasledjivanje?
 // Sta je interface?
-
+package src;
 public class Krug extends Oblik{
     // Properti poluprecnik
     private double poluprecnik;

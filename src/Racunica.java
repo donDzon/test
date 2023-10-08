@@ -1,3 +1,4 @@
+package src;
 public class Racunica {
     public static double povrsinaKvadrata(double a) {
         return a * a;
