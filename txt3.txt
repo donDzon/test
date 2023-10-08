@@ -1,1 +1,3 @@
 tenk treci file
+
+ ovo ce biti prve izmene na dzoni branchu!
